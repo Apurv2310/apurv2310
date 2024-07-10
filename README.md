@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Zaika-Online Food Delivery**
 
-- 🌱 I’m currently learning **Spring mbc, spring boot,MERN stack,.net mvc**
+- 🌱 I’m currently learning **Spring mvc, spring boot,MERN stack,.net mvc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Apurv2310](https://github.com/Apurv2310)
 
